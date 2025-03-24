@@ -27,13 +27,19 @@ Private Document Chat App (Flask + LangChain + Ollama)
 ⚙️ Setup Instructions
 
 - Install Dependencies
+```console
 pip install requirements.txt
+```
 
 - Start Ollama (if not already running)
+```console
 ollama serve
+```
 
 - Run the Flask App
+```console
 flask run
+```
 
 - Access the App
 Open your browser at: http://127.0.0.1:5000
