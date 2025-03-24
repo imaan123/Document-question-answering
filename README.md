@@ -1,8 +1,8 @@
-Private Document Chat App (Flask + LangChain + Ollama)
+**Private Document Chat App (Flask + LangChain + Ollama)**
 
 - This is a lightweight Flask-based web application that allows you to chat with your private PDF documents using local LLMs and retrieval-augmented generation (RAG) with LangChain.
 
-🚀 Features
+🚀 **Features**
 
 - Upload and chat with multiple PDF documents.
 
@@ -12,7 +12,7 @@ Private Document Chat App (Flask + LangChain + Ollama)
 
 - Simple and intuitive frontend interface.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 - Flask: Web framework.
 
@@ -24,7 +24,7 @@ Private Document Chat App (Flask + LangChain + Ollama)
 
 - HuggingFace Embeddings: all-MiniLM-L6-v2.
 
-⚙️ Setup Instructions
+⚙️ **Setup Instructions**
 
 - Install Dependencies
 ```console
